@@ -5,8 +5,8 @@
     <p>Здесь вы найдете различные проекты и скрипты, которые я создал в процессе изучения анализа данных и машинного обучения.</p>
     <h2>Основные особенности</h2>
     <ul>
-        <li>[calculate_metrics.ipynb](https://github.com/olodenm/practice/blob/main/calculate_metrics.ipynb)</strong>: Этот Jupyter Notebook содержит код Python для расчета различных статистических метрик и визуализации данных. Он представляет собой отличный пример того, как вы можете использовать Python и pandas для работы с данными.</li>
-    </ul>
+    <li><a href="https://github.com/olodenm/practice/blob/main/calculate_metrics.ipynb">calculate_metrics.ipynb</a>: Этот Jupyter Notebook содержит код Python для расчета различных статистических метрик и визуализации данных. Он представляет собой отличный пример того, как вы можете использовать Python и pandas для работы с данными.</li>
+</ul>
     <ul>
         <li><strong>wordcloudrendering.ipynb</strong>: Этот Jupyter Notebook содержит скрипт для генирации "Облака слов" из выгрузки личной переписки с Telegram. Он позволяет легко перевести любую переписку в картинку из популярных слов.</li>
     </ul>
